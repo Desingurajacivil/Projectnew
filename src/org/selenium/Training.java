@@ -35,7 +35,10 @@ public class Training {
 			System.out.println(text);
 			
 		}
-	
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
+	System.out.println(123);
        
 
 	}
